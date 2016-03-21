@@ -1,0 +1,6 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	.git file is created. We need to do that in order to maintain a revision history.
+
+	
