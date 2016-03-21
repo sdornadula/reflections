@@ -1,0 +1,22 @@
+Lesson 1
+
+git log -- Used to find out the commit history.
+
+git diff first_commit_id second_commit_id  -- Difference between two commits.
+
+git commit
+
+git checkout
+
+
+Lesson 2
+
+
+git init  -- Creates a git repository and adds a .git file. At this point the repository contains no commits. Git will not create a commit for us. 
+
+git status -- It shows what files have been changed since the last commit. 
+
+
+
+
+
