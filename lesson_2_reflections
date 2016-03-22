@@ -3,4 +3,20 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	.git file is created. We need to do that in order to maintain a revision history.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area adds all the files that belong to a particular commit. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	using "git diff --staged" shows all the differences between the staged files and latest committed files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches are used when we need to do experimental changes or when we want to create different language versions of the same code. We can keep the master branch as production branch and make all development on a new branch called developmental branch. Branches makes everything organized.
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams show which commits are reachable by which branch and which commits are unreachable and help us understand clearly about various branches.
+
 	
