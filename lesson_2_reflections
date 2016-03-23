@@ -19,4 +19,6 @@ How do the diagrams help you visualize the branch structure?
 
 	Diagrams show which commits are reachable by which branch and which commits are unreachable and help us understand clearly about various branches.
 
-	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging two branches together, all the fixes or development is included in the master branch.
