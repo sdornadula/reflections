@@ -6,4 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	We can keep track of changes and pull or push based on when we want to do it. We can also understand and resolve any conflicts that occur.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Branches -- We can create branches when we work locally on a project.
+	Clones   -- We can clone on GitHub and also locally.
+	Forks    -- When we create copies on GitHub and do not want to change the original repository.
+
 	
