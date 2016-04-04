@@ -16,4 +16,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	We can fetch all the changes based on that and also merge easily.
 
-	
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Collaborating with others without using GitHub is very difficult updating others, sharing changes and merging changes.
